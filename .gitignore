@@ -1,8 +1,30 @@
-*
+/CHARTSERVERS
+/CompressJs
+/SQL
+/TestHarness
+/Tools
+
+# ChartingWebService.vb
+/Presentation/CapitalIQ.Charting.Web/*
+!/Presentation/CapitalIQ.Charting.Web/CapitalIQ.Charting.Web
+/Presentation/CapitalIQ.Charting.Web/CapitalIQ.Charting.Web/*
+!/Presentation/CapitalIQ.Charting.Web/CapitalIQ.Charting.Web/WebServices/
+/Presentation/CapitalIQ.Charting.Web/CapitalIQ.Charting.Web/WebServices/*
+!/Presentation/CapitalIQ.Charting.Web/CapitalIQ.Charting.Web/WebServices/ChartingWebService.vb
+!/Presentation/CapitalIQ.Charting.Web/CapitalIQ.Charting.Web/WebServices/HighChart.asmx.vb
+
+/Common
+/Data
 
 !.gitignore
+!Charting.sln
 
-!/Presentation/CapitalIQ.Charting.Web/CapitalIQ.Charting.Web/WebServices/ChartingWebService.vb
+
+# Exclude individual Files:
+#/Presentation/CapitalIQ.Charting.Web/*.*
+
+
+
 
 
 # Windows image file caches
