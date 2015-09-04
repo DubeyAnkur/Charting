@@ -2,7 +2,7 @@
 
 !.gitignore
 
-!*/Presentation/CapitalIQ.Charting.Web/CapitalIQ.Charting.Web/WebServices/ChartingWebService.vb
+!/Presentation/CapitalIQ.Charting.Web/CapitalIQ.Charting.Web/WebServices/ChartingWebService.vb
 
 
 # Windows image file caches
